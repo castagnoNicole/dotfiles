@@ -1,0 +1,38 @@
+! vim:nu:ai:si:et:ts=4:sw=4:ft=xdefaults:
+
+! special
+*.foreground:   #ffffff
+*.background:   #21242b
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #233337
+*.color8:       #36484c
+
+! red
+*.color1:       #f28479
+*.color9:       #fd8a7e
+
+! green
+*.color2:       #7fdd98
+*.color10:      #85e79f
+
+! yellow
+*.color3:       #f5ecb1
+*.color11:      #fff5b8
+
+! blue
+*.color4:       #67acd5
+*.color12:      #3a8ba6
+
+! magenta
+*.color5:       #f49bbe
+*.color13:      #ffa2c6
+
+! cyan
+*.color6:       #47e7e5
+*.color14:      #4bf3f1
+
+! white
+*.color7:       #ffffff
+*.color15:      #ffffff

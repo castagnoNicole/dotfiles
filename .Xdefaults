@@ -1,0 +1,2 @@
+#include "/home/nicola/.colors/nicotheme"
+URxvt*scrollBar: false
