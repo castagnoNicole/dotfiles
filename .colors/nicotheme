@@ -1,8 +1,21 @@
 ! vim:nu:ai:si:et:ts=4:sw=4:ft=xdefaults:
+!
+
+XTerm*faceName: xft:monospace:pixelsize=21
+XTerm*selectToClipboard:true
+
+XTerm*renderFont: true
+XTerm*faceName: Noto Sans
+XTerm*faceSize: 22
+
+URxvt*faceName: xft:monospace:pixelsize=28
+URxvt*selectToClipboard:true
+
 
 ! special
 *.foreground:   #ffffff
-*.background:   #21242b
+!*.background:   #21242b
+*.background:   #000000
 *.cursorColor:  #ffffff
 
 ! black

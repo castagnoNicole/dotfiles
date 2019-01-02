@@ -1,2 +1,4 @@
-#include "/home/nicola/.colors/nicotheme"
+#include "/home/yashil/.colors/nicotheme"
 URxvt*scrollBar: false
+xterm*font: -*-terminus-*-*-*-*-24-*-*-*-*-*-*-*
+URxvt*font:-*-terminus-medium-*-*-*-14-*-*-*-*-*-*-*
